@@ -1,4 +1,3 @@
--- Zika Audio & Image Logger v6 + ESP Commands (Others Tab)
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
